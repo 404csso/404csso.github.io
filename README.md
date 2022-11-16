@@ -28,7 +28,7 @@
 
 >> He is shown wearing multiple outfits, including a grey jacket with large buttons and a logo feature, a black turtleneck, tight fitting pants and black formal shoes.
 
-> ![alt text](Zen_gallery.png)
+> ![alt text](https://i.pinimg.com/564x/77/64/08/776408df36a68d7f2c157e1e4cf212d8.jpg)
 ---
 
 **Yoosung Kim**

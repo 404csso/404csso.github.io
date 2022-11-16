@@ -28,7 +28,7 @@
 
 >> He is shown wearing multiple outfits, including a grey jacket with large buttons and a logo feature, a black turtleneck, tight fitting pants and black formal shoes.
 
-> ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/9/9f/Zen_render.png/revision/latest?cb=20160920004035)
+> ![alt text](Zen_gallery.png)
 ---
 
 **Yoosung Kim**

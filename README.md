@@ -1,11 +1,14 @@
 # W3lc0me t0 404csso.github.io
+
+![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/8/89/Wiki-wordmark.png/revision/latest?cb=20160907092010)
 ---
 ## A Mystic Messenger site.
+##### [More info of MM site](https://mystic-messenger.fandom.com/wiki/Mystic_Messenger_Wiki)
 ---
 ### Main characters:
 ***Casual Story characters***
 
-**Zen**
+**[Zen](https://mystic-messenger.fandom.com/wiki/Zen)**
 
 ***“	I'm an actor so there's not much I can do, but I'd love to help anyone who's discouraged by their difficult environment.	”
 —ZEN, Comment from RFA Orientation Guidebook***
@@ -28,10 +31,10 @@
 
 >> He is shown wearing multiple outfits, including a grey jacket with large buttons and a logo feature, a black turtleneck, tight fitting pants and black formal shoes.
 
-> ![alt text](https://i.pinimg.com/564x/77/64/08/776408df36a68d7f2c157e1e4cf212d8.jpg)
+> ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/1/15/Zen_info.png/revision/latest/scale-to-width-down/1000?cb=20160715221437)
 ---
 
-**Yoosung Kim**
+**[Yoosung Kim](https://mystic-messenger.fandom.com/wiki/Yoosung)**
 
 ***“	I'm so glad we're hosting another party! I'm going to do better than last time so that Rika's not disappointed from up there.	”
 —Yoosung, Comment from RFA Orientation Guidebook***
@@ -40,4 +43,17 @@
 
 *Personality*
 
->>
+>> Yoosung is a very nice and lovable person, and is described by the other RFA members as 'a real puppy'. Yoosung cares about people a lot and loves to spend time with others. He is naive and believes things that are told to him more often than not, as shown in several of his interactions with 707. As a result, he is often the target of 707's pranks and teasing.
+
+>> Despite his somewhat naive and lighthearted nature, Yoosung became severely depressed after the death of his cousin, Rika, who he idolized and was very close with. After her death, Yoosung lost all interest in his studies and became a shut in, rarely leaving for classes and opting instead to play LOLOL in order to cope with the crippling sadness.
+
+>> During Yoosung's route, 707 states in a phone call with the MC that Yoosung had yandere tenancies, which the MC can expand on if she wants. This reveals Yoosung to be a very possessive person, asking the MC to only text him, to only call and talk to him. The MC can expand on his yandere tenancies which will result in a Bad Ending if she also encourages him to see her as a new Rika.
+
+*Appearance*
+
+>> He is the shortest out of all the male characters, at 171 cm (5'7") and is also the most youthful appearance and age-wise. He has messy, bleached blond hair that he usually keeps out of his eyes with two dark brown hair clips that form an 'X' shape. He has soft violet eyes and a young aura to him in all his photos. His style of clothing usually contains something blue.
+
+>> It is stated that Yoosung dyed his hair blond in order to get a girlfriend, but also to perhaps look closer in appearance with his cousin who was also blonde. His natural hair colour is a dark brown and was usually well kept. Before Rika's death, it is shown in photos that Yoosung would wear more formal clothes before he went to college.
+
+> ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/0/02/Yoosung_info.png/revision/latest/scale-to-width-down/1000?cb=20160715220947)
+---

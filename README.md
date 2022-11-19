@@ -6,9 +6,14 @@
 
 ## A fan-made Mystic Messenger site. 
 ##### [More info of MM site](https://mystic-messenger.fandom.com/wiki/Mystic_Messenger_Wiki)
+```
+SPOILERS AHEAD, READ AT YOUR OWN DISCRETION!
+If you haven't played Mystic Messenger completely, 
+you might read something that will reveal to you the complete story of the game. So please pay attention!
+----------------------------------------------------------------------------------------------------------
+```
 ### <mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark>
 ### <mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark>
-
 ---
 
 ### ***Casual Story characters***
@@ -95,3 +100,61 @@
 — 707, Official profile***
 
 > **707 (Real name Saeyoung Choi, Baptismal name Luciel Choi)** often referred as Seven, is one of the Deep Story characters available in Mystic Messenger. He is a hacker who can quickly find information on anything he can get his hands on.
+
+*Personality*
+
+>> For the most part, Seven displays a happy-go-lucky, outgoing, and very bizarre personality. He frequently plays pranks on Yoosung via chat room, makes fun of the other members (and himself), and, in response to just about anything, will respond with a series of "lol"s. He's essentially your typical jokester who loves cars (he owns multiple) and holds a passion for hacking.
+
+>> However, the player's first impression of Seven is not the "real" Seven. Outside the chat room, and behind the humorous front he puts up, Seven is actually quite depressed and serious, and he refuses to believe that anything good can happen to him. This is due to his past and his profession, as he thinks that he will endanger anyone he gets close to. This fear is brought up very often during the events of his route, usually when he is trying to push the player away.
+
+>> Though he rejects the player at first, it is evident that he values them quite a lot and very readily displays affection when convinced that the player will accept him regardless of how he is. After his route, he returns to his previous self, just toned down a little bit.
+
+>> It is also mentioned that he is Catholic and later in his route he shows his religious values.
+
+*Appearance*
+
+>> Seven has messy vermilion hair and golden eyes. He usually wears a black jacket with amber accents. He is 175 cm (5' 9") tall and weighs 69 kg (152 lbs). He is always seen wearing his glasses, which are yellow with dark grey (sometimes depicted as black) stripes. His orange headphones are seen around his neck the majority of the time. He also wears a silver cross necklace.
+
+>> Seven changes his outfits very rarely. His attire for the party consists of a white vest decorated with red accents over a black dress shirt and a red tie.
+
+>> He crossdresses and cosplays often as the player will be able to obtain pictures of himself in various costumes throughout the game. He has dressed up as Rika, a maid, an astronaut, a fairy, and a nun in the past.
+
+> ![707 gallery](https://user-images.githubusercontent.com/118145851/202854700-aa315ec4-7026-4b6b-a5ca-f4684d7fad66.jpg)
+
+---
+
+**[Jumin Han](https://mystic-messenger.fandom.com/wiki/Jumin_Han)**
+
+***“	If only we can continue Rika and V's aspirations	”
+—Jumin Han, Comment from RFA Orientation Guidebook***
+
+> **Jumin Han** is one of the Deep Story characters available in Mystic Messenger. He is the son of a wealthy family and the heir of the C&R International company. He is always on business trips and usually talks about work or mature topics, which is why he doesn't know about youth slang or commoner food. He does, however, sometimes speak eccentrically. Jumin loves to talk about his cat, Elizabeth 3rd, and how beautiful she is and is very much a doting parent. However, because of past experiences, Jumin is emotionally closed off and is distrustful of women, having witnessed his father fall victim to many gold-diggers who never loved his father, only his money.
+
+*Personality*
+
+>> Jumin is a quiet, serious and cautious man who prefers to act mature. Despite this, he is interested in young slang and loves to talk about cats, especially his own, Elizabeth 3rd. In fact, in his own way, his general cadence will give off that of a child's. He also enjoys teasing Zen about his cat allergy in the chat room. He is often surrounded by rumors concerning his sexuality because of his complete lack of interest in women, leading the press and other members of the RFA to tease him for possibly being gay. He views situations objectively, and wants others to be like him. He is a workaholic, which is shown through how he works Jaehee Kang to the bone; however, Jaehee states that Jumin's workload is ever greater than hers. Jumin disregards others' opinions of him, so he lives his life how he thinks is right.
+
+>> Jumin does not care for relationships because he thinks it isn't worth it, preferring to focus on his work and cat instead. This gives others the impression of a cold man or even a robot. He also keeps his work relationships strictly professional, believing that his employees will do anything as long as they are paid to. As Jumin has a high status, he lives luxuriously, but he hates people that only like him for his money. Jumin has his own sense of humor which most of the RFA members do not understand, and at most times, isn't very funny but he doesn't care. Despite his cold and objective perspective, Jumin treasures the members of RFA so much that when needed, he would use his authority to help them without hesitation.
+
+>> It is revealed in Jumin's Route, that he is not so cold and unfeeling as he portrays himself; instead, he is a man who feels rather too much but, for the sake of efficiency, he pushes his feelings down, repressing them and using work and his cat to distract himself. This has led to Jumin to develop severe, crippling loneliness and he does not know how to work through it, viewing himself as a "monster", thinking himself to be an ugly creature because of how lonely and paranoid he is. To cope, he projected this loneliness onto Elizabeth the 3rd and is overcome with despair when he admits that he knows their relationship is a lie, that she does not understand him and never will. Jumin is also hinted at having feelings for Rika as he believed she could see into him and see the "tangled" emotions without becoming disgusted. However, even when Rika asks if they would have ended up together, Jumin is visibly uncomfortable at the joke and tells her not to say things like that as it makes him uncomfortable. Because of never having been in a relationship before and being forced to repress his emotions, Jumin's relationship with the MC is rocky at first. However, with the MC's help, Jumin overcomes all his fear and anxiety and "untangles" his emotions that were knotted for many years.
+
+*Appearance*
+
+>> Jumin is a tall, young man with a slim body. He is 184 cm (6' 0") tall and he weighs 78 kg (171.9 pounds). He has messy black hair that has a slight brown hue in some pictures. He has the same hairstyle that you would typically see an ahoge have. He has sharp grey eyes and also has a very pale complexion.
+
+>> He is often seen wearing his formal suit even when he is in his penthouse. It consists of a striped long white shirt, a black vest, jacket, tie, pants and shoes. On his right chest on the suit is a little pocket with a violet handkerchief.
+
+>> In the Normal Ending, Jumin is seen wearing his casual attire which consists of a long white shirt covered by a tan sweater, an open dark blue jacket and long black pants which he used to wear when he was the Director of C&R.
+
+>> In the After Ending, Jumin is seen with slicked-back hair (with a slight greyish streak) and his usual attire with his jacket unbuttoned. Jumin's usual black tie is replaced with a dark red one and he wears sunglasses.
+
+>> At the party, Jumin is seen wearing a formal suit, which is more dark blue. He is wearing a white long shirt and white gloves.
+
+> ![Jumin Han_Gallery](https://user-images.githubusercontent.com/118145851/202855288-c04e0cff-aa9a-47b4-b3bb-d50081b91706.jpg)
+
+---
+
+---
+
+[FOR MORE CHARACTERS, CLICK THIS LINK](https://mystic-messenger.fandom.com/wiki/Characters)
+###### sorry po kung mahaba--

@@ -32,6 +32,7 @@
 >> He is shown wearing multiple outfits, including a grey jacket with large buttons and a logo feature, a black turtleneck, tight fitting pants and black formal shoes.
 
 > ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/1/15/Zen_info.png/revision/latest/scale-to-width-down/1000?cb=20160715221437)
+
 ---
 
 **[Yoosung Kim](https://mystic-messenger.fandom.com/wiki/Yoosung)**
@@ -56,4 +57,14 @@
 >> It is stated that Yoosung dyed his hair blond in order to get a girlfriend, but also to perhaps look closer in appearance with his cousin who was also blonde. His natural hair colour is a dark brown and was usually well kept. Before Rika's death, it is shown in photos that Yoosung would wear more formal clothes before he went to college.
 
 > ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/0/02/Yoosung_info.png/revision/latest/scale-to-width-down/1000?cb=20160715220947)
+
 ---
+
+**[Jaehee Kang](https://mystic-messenger.fandom.com/wiki/Jaehee_Kang)**
+
+***“	Everyone is fairly chatty in the chat room, but we are serious about the organization's party. Hopefully, we can invite many people.	”
+—Jaehee Kang, Comment from RFA Orientation Guidebook***
+
+> **Jaehee Kang** is one of the characters available from the Casual Story option in Mystic Messenger, and the only female character with a route. She is the chief secretary in the C&R International company and works as Jumin Han's assistant. She is kind and hardworking.
+
+*Personality*

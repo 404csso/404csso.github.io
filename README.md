@@ -1,6 +1,7 @@
 # W3lc0me t0 404csso.github.io
 
-![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/8/89/Wiki-wordmark.png/revision/latest?cb=20160907092010)
+![kindpng_213119](https://user-images.githubusercontent.com/118145851/202852845-3b99a1fd-8bf8-4d64-97e5-3e9d23e3226f.png)
+
 ---
 ## A Mystic Messenger site.
 ##### [More info of MM site](https://mystic-messenger.fandom.com/wiki/Mystic_Messenger_Wiki)
@@ -31,7 +32,7 @@
 
 >> He is shown wearing multiple outfits, including a grey jacket with large buttons and a logo feature, a black turtleneck, tight fitting pants and black formal shoes.
 
-> ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/1/15/Zen_info.png/revision/latest/scale-to-width-down/1000?cb=20160715221437)
+> ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/1/15/Zen_info.png/revision/latest/scale-to-width-down/391?cb=20160715221437)
 
 ---
 
@@ -56,7 +57,7 @@
 
 >> It is stated that Yoosung dyed his hair blond in order to get a girlfriend, but also to perhaps look closer in appearance with his cousin who was also blonde. His natural hair colour is a dark brown and was usually well kept. Before Rika's death, it is shown in photos that Yoosung would wear more formal clothes before he went to college.
 
-> ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/0/02/Yoosung_info.png/revision/latest/scale-to-width-down/1000?cb=20160715220947)
+> ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/0/02/Yoosung_info.png/revision/latest?cb=20160715220947)
 
 ---
 
@@ -75,6 +76,6 @@
 
 >> Jaehee is a young woman of average height, 165 cm (5'5"), who weighs 54 kg (119 lbs). She has short brown hair and gold-ish brown eyes. She wears non-prescription glasses that were given to her by Jumin. She is often seen in a business suit due to her job. She wears a white dress shirt, a dark brown/black jacket with a short pencil skirt, tights and black heels. In her after-ending, she has long, wavy hair that goes down to her upper back.
 
-> ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/9/9e/Jaehee_info.png/revision/latest/scale-to-width-down/1000?cb=20160715221125)
+> ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/9/9e/Jaehee_info.png/revision/latest/scale-to-width-down/1022?cb=20160715221125)
 
 ---

@@ -3,11 +3,12 @@
 ![kindpng_213119](https://user-images.githubusercontent.com/118145851/202852845-3b99a1fd-8bf8-4d64-97e5-3e9d23e3226f.png)
 
 ---
-## A Mystic Messenger site.
+## A fan-made Mystic Messenger site. 
 ##### [More info of MM site](https://mystic-messenger.fandom.com/wiki/Mystic_Messenger_Wiki)
+<mark style="color:#690014;">SPOILERS ALERT</mark>
 ---
-### Main characters:
-***Casual Story characters***
+
+### ***Casual Story characters***
 
 **[Zen](https://mystic-messenger.fandom.com/wiki/Zen)**
 
@@ -32,7 +33,7 @@
 
 >> He is shown wearing multiple outfits, including a grey jacket with large buttons and a logo feature, a black turtleneck, tight fitting pants and black formal shoes.
 
-> ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/1/15/Zen_info.png/revision/latest/scale-to-width-down/391?cb=20160715221437)
+> ![Zen_Gallery](https://user-images.githubusercontent.com/118145851/202853451-c8ac2711-6e7b-4eb0-aa6d-a5239d3f3edc.png)
 
 ---
 
@@ -57,7 +58,7 @@
 
 >> It is stated that Yoosung dyed his hair blond in order to get a girlfriend, but also to perhaps look closer in appearance with his cousin who was also blonde. His natural hair colour is a dark brown and was usually well kept. Before Rika's death, it is shown in photos that Yoosung would wear more formal clothes before he went to college.
 
-> ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/0/02/Yoosung_info.png/revision/latest?cb=20160715220947)
+> ![photo 𝟣𝟩 ፧ ☆](https://user-images.githubusercontent.com/118145851/202853489-8190e9b3-4394-45b4-9804-8f89378d511c.jpg)
 
 ---
 
@@ -76,6 +77,18 @@
 
 >> Jaehee is a young woman of average height, 165 cm (5'5"), who weighs 54 kg (119 lbs). She has short brown hair and gold-ish brown eyes. She wears non-prescription glasses that were given to her by Jumin. She is often seen in a business suit due to her job. She wears a white dress shirt, a dark brown/black jacket with a short pencil skirt, tights and black heels. In her after-ending, she has long, wavy hair that goes down to her upper back.
 
-> ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/9/9e/Jaehee_info.png/revision/latest/scale-to-width-down/1022?cb=20160715221125)
+> ![Kang Jaehee _ Mystic Messenger](https://user-images.githubusercontent.com/118145851/202853497-d432dfb9-4b8c-4d5c-9675-ec084bdc31f4.jpg)
 
 ---
+
+### ***Deep Story Characters***
+
+**[707](https://mystic-messenger.fandom.com/wiki/707)**
+
+***“	It's nice to use the messenger, but you'll get hurt if you try to find out too much about me so be careful!	”
+—707, Comment from RFA Orientation Guidebook***
+
+***“	Be careful, I am dangerous, you wouldn't want to get too involved with me...	”
+— 707, Official profile***
+
+> **707 (Real name Saeyoung Choi, Baptismal name Luciel Choi)** often referred as Seven, is one of the Deep Story characters available in Mystic Messenger. He is a hacker who can quickly find information on anything he can get his hands on.

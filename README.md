@@ -68,3 +68,13 @@
 > **Jaehee Kang** is one of the characters available from the Casual Story option in Mystic Messenger, and the only female character with a route. She is the chief secretary in the C&R International company and works as Jumin Han's assistant. She is kind and hardworking.
 
 *Personality*
+
+>> Even though Jaehee is a fairly serious and independent business woman, she is very caring. Jaehee has her own sense of humour and knows how to have a good chuckle at herself and others. That being said, she likes things to be organized and kept in line (One of the reasons she doesn't like taking care of cats; the one hair she misses while cleaning up after them drives her mad). It's very frustrating to her when things do not go according to schedule or if she is saddled with unexpected extra work. But ever the responsible one, she always comes through and deals the best she can despite the challenges her boss and friend Jumin always throws at her both in work and personal life.
+
+*Appearance*
+
+>> Jaehee is a young woman of average height, 165 cm (5'5"), who weighs 54 kg (119 lbs). She has short brown hair and gold-ish brown eyes. She wears non-prescription glasses that were given to her by Jumin. She is often seen in a business suit due to her job. She wears a white dress shirt, a dark brown/black jacket with a short pencil skirt, tights and black heels. In her after-ending, she has long, wavy hair that goes down to her upper back.
+
+> ![alt text](https://static.wikia.nocookie.net/mystic-messenger/images/9/9e/Jaehee_info.png/revision/latest/scale-to-width-down/1000?cb=20160715221125)
+
+---

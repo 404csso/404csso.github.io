@@ -5,7 +5,7 @@
 ---
 ## A fan-made Mystic Messenger site. 
 ##### [More info of MM site](https://mystic-messenger.fandom.com/wiki/Mystic_Messenger_Wiki)
-<mark style="color:#690014;">SPOILERS ALERT</mark>
+<mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark> <mark>SPOILERS ALERT</mark> 
 ---
 
 ### ***Casual Story characters***

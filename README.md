@@ -88,6 +88,7 @@ you might read something that will reveal to you the complete story of the game.
 > ![Kang Jaehee _ Mystic Messenger](https://user-images.githubusercontent.com/118145851/202853497-d432dfb9-4b8c-4d5c-9675-ec084bdc31f4.jpg)
 
 ---
+
 ---
 
 ### ***Deep Story Characters***
